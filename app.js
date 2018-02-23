@@ -1,4 +1,4 @@
-// Juan Aguirre
+// Juan Aguirre Node.js App
 
 var express = require('express');
 
