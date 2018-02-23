@@ -40,7 +40,7 @@
     "episode_number" : "5",
     "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca", "Lando Calrissian", "Boba Fett"],
     "description" : "Fleeing the evil Galactic Empire, the Rebels abandon their new base in an assault with the Imperial AT-AT walkers on the ice world of Hoth. Princess Leia, Han Solo, Chewbacca and the droid C-3PO escape in the Millennium Falcon, but are later captured by Darth Vader on Bespin. Meanwhile, Luke Skywalker and the droid R2-D2 follows Obi-Wan Kenobi's posthumous command, and receives Jedi training from Master Yoda on the swamp world of Dagobah. Will Skywalker manage to rescue his friends from the Dark Lord?",
-    "poster" : "star_wars_episode_5_poster.JPG",
+    "poster" : "star_wars_episode_5_poster.jpg",
     "hero_image" : "star_wars_episode_5_hero.jpg"
   },
 
@@ -49,7 +49,7 @@
     "episode_number" : "6",
     "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "Chewbacca", "The Emperor", "Boba Fett"],
     "description" : "Darth Vader and the Empire are building a new, indestructible Death Star. Meanwhile, Han Solo has been imprisoned, and Luke Skywalker has sent R2-D2 and C-3PO to try and free him. Princess Leia - disguised as a bounty hunter - and Chewbacca go along as well. The final battle takes place on the moon of Endor, with its natural inhabitants, the Ewoks, lending a hand to the Rebels. Will Darth Vader and the Dark Side overcome the Rebels and take over the universe?",
-    "poster" : "star_wars_episode_6_poster.JPG",
+    "poster" : "star_wars_episode_6_poster.jpg",
     "hero_image" : "star_wars_episode_6_hero.jpg"
   },
 
